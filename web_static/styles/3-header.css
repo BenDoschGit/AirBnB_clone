@@ -1,5 +1,10 @@
 header {
     background-color: white;
+    background-image: url("../images/logo.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-position: left 20px;
     height: 70px;
     width: 100%;
     border-bottom: 1px #CCCCCC;
